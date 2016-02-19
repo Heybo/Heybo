@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/aiden/workspace/aiden/coding/Heybo/Heybo/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/aiden/workspace/aiden/coding/Heybo/Heybo/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-76ee70fc6f17543c7208dbdb4fea6d463c35e693.jar" />
+    </item>
+    <item
+        jar="/home/aiden/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/aiden/workspace/aiden/coding/Heybo/Heybo/build/intermediates/pre-dexed/debug/okio-1.6.0-64e24f268c394b68101a487c8c1b6fe787eea0c2.jar" />
+    </item>
+    <item
+        jar="/home/aiden/workspace/aiden/coding/Heybo/Heybo/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/aiden/workspace/aiden/coding/Heybo/Heybo/build/intermediates/pre-dexed/debug/classes-d52f2919909e5c3a9b97f980b9e2772d71cc9857.jar" />
+    </item>
+    <item
+        jar="/home/aiden/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/adapter-rxjava/2.0.0-beta2/3a233746381a03dbb0f5f3ed10b11c3e72dba499/adapter-rxjava-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3a233746381a03dbb0f5f3ed10b11c3e72dba499">
+        <dex dex="/home/aiden/workspace/aiden/coding/Heybo/Heybo/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.0-beta2-5d69a01a2c5b2f9fb40b0e19ecca979fc3617154.jar" />
+    </item>
+    <item
+        jar="/home/aiden/Develpment/android-sdks/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/aiden/workspace/aiden/coding/Heybo/Heybo/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-4c5e0b5562cdbdfa9b914f4e9a754d7d3ea680f6.jar" />
+    </item>
+    <item
+        jar="/home/aiden/workspace/aiden/coding/Heybo/Heybo/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/home/aiden/workspace/aiden/coding/Heybo/Heybo/build/intermediates/pre-dexed/debug/classes-27242a8e2034a72f6edd55a6afbdb9cc413aad2a.jar" />
+    </item>
+    <item
+        jar="/home/aiden/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.14/898f9ab61e2a23afd615f0b0389478bec86f49f9/rxjava-1.0.14.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="898f9ab61e2a23afd615f0b0389478bec86f49f9">
+        <dex dex="/home/aiden/workspace/aiden/coding/Heybo/Heybo/build/intermediates/pre-dexed/debug/rxjava-1.0.14-cb43385edb1f889a8cf6497d7fe75915fe603106.jar" />
+    </item>
+    <item
+        jar="/home/aiden/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/aiden/workspace/aiden/coding/Heybo/Heybo/build/intermediates/pre-dexed/debug/okhttp-2.5.0-ca56e84bcd5c58a45de29d1bdf0c1c7643862255.jar" />
+    </item>
+    <item
+        jar="/home/aiden/workspace/aiden/coding/Heybo/Heybo/libs/weiboSDKCore_3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c0bfcddc15de1e8a90ff166da0b9abe011346af">
+        <dex dex="/home/aiden/workspace/aiden/coding/Heybo/Heybo/build/intermediates/pre-dexed/debug/weiboSDKCore_3.1.2-9b645ba0222ccf9ce0127171e3730980eb2eb4d5.jar" />
+    </item>
+    <item
+        jar="/home/aiden/workspace/aiden/coding/Heybo/Heybo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/aiden/workspace/aiden/coding/Heybo/Heybo/build/intermediates/pre-dexed/debug/classes-2668a341a34d3dff0daa5089be7c73d85fb233fa.jar" />
+    </item>
+    <item
+        jar="/home/aiden/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/home/aiden/workspace/aiden/coding/Heybo/Heybo/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta2-cc73872ee78b86c9967560f1bbc1d093fcd15822.jar" />
+    </item>
+
+</items>

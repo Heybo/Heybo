@@ -1,0 +1,38 @@
+
+Keystore type: JKS
+Keystore provider: SUN
+
+Your keystore contains 1 entry
+
+Alias name: xhzljy
+Creation date: Oct 30, 2015
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: CN=ljy, OU=ljy, O=ljy, L=ljy, ST=ljy, C=ljy
+Issuer: CN=ljy, OU=ljy, O=ljy, L=ljy, ST=ljy, C=ljy
+Serial number: 49af3a2a
+Valid from: Fri Oct 30 23:03:26 EDT 2015 until: Tue Oct 23 23:03:26 EDT 2040
+Certificate fingerprints:
+	 MD5:  40:8B:17:84:83:FB:44:D2:CE:E3:92:06:88:BF:5D:26
+	 SHA1: A3:79:86:89:F1:31:F4:3F:A1:D0:B9:0F:BD:CE:05:59:03:EA:4C:B8
+	 SHA256: 39:D8:6D:E2:F1:66:59:15:07:90:26:90:43:CB:2C:53:9E:99:74:8F:02:20:7F:19:72:55:10:9C:FC:C5:2A:46
+	 Signature algorithm name: SHA256withRSA
+	 Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 6C 16 3E 80 CF 5D A6 7B   61 AD 1F C9 02 CF 87 B3  l.>..]..a.......
+0010: B8 42 7B 44                                        .B.D
+]
+]
+
+
+
+*******************************************
+*******************************************
+
+
